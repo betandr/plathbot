@@ -1,0 +1,19 @@
+{
+  "name": "cloud-slack-plathbot",
+  "version": "1.0.0",
+  "description": "A Sylvia Slack bot.",
+  "main": "plathbot.js",
+  "dependencies": {
+    "botkit": "0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/betandr/plathbot.git"
+  },
+  "author": "Beth Anderson",
+  "license": "Apache-2.0"
+}
